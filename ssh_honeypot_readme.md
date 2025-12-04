@@ -69,9 +69,7 @@ Output is saved in the reports folder or printed on screen depending on your scr
 
 ## 🖼️ Screenshot
 (REAL EXAMPLE OF HONEYPOT)
-```
 ![Sample of script](screenshot/1.png)
-```
 
 ---
 
