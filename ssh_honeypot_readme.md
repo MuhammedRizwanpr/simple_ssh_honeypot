@@ -23,7 +23,7 @@ Clone the repository:
 git clone https://github.com/MuhammedRizwanpr/simple_ssh_honeypot.git
 cd simple_ssh_honeypot
 ```
-
+https://github.com/MuhammedRizwanpr/simple_ssh_honeypot/blob/main/ssh_honeypot.py
 Install dependencies:
 ```bash
 pip install scapy pandas
@@ -50,7 +50,7 @@ You can set this to any free port.
 ## ▶️ Running the Script
 Run the honeypot with:
 ```bash
-sudo python3 honeypot.py
+sudo python3 ssh_honeypot.py
 ```
 
 You must run as root because Scapy requires elevated privileges for ARP operations.
