@@ -68,12 +68,9 @@ Output is saved in the reports folder or printed on screen depending on your scr
 ---
 
 ## 🖼️ Screenshot
-(Replace this section with an actual screenshot later)
+(REAL EXAMPLE OF HONEYPOT)
 ```
-[ SSH Honeypot Running — Listening on port 2222 ]
-[ Connection detected from 192.168.x.x ]
-[ MAC resolved using ARP: xx:xx:xx:xx:xx:xx ]
-[ Report saved successfully ]
+![Sample of script](screenshot/1.png)
 ```
 
 ---
